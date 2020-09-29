@@ -15,6 +15,9 @@ public class TestDemo {
         for (RomerskaSiffror b : RomerskaSiffror.values())
 
             System.out.println(b + " = " + b.sifferVärde);
+            //kommentar kommentar
+
+
 
 
 
