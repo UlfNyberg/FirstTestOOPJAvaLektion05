@@ -20,4 +20,5 @@ public enum RomerskaSiffror {
     public int getSifferVärde() {
         return sifferVärde;
     }
+    //nu la jag till en sak till
 }
